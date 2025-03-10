@@ -37,3 +37,4 @@ resource "google_compute_firewall" "ssh_firewall" {
   source_ranges = var.allowed_ips
   target_tags   = ["ssh-allowed"]
 }
+
