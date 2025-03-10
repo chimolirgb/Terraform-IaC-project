@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"compute","Source":"./modules/compute","Dir":"modules/compute"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"compute","Source":"./modules/compute","Dir":"modules/compute"},{"Key":"database","Source":"./modules/database","Dir":"modules/database"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
